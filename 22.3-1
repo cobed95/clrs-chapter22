@@ -1,0 +1,13 @@
+Directed Graphs
+      (From)  White   Gray    Black
+(To)
+White         True    True    False
+              Tree    Tree    
+              Back    Forward
+              Forward Cross
+              Cross
+
+Gray          True    False   True
+              True        Cross
+
+Black
